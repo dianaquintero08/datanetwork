@@ -1,2 +1,4 @@
 # datanetwork
-k
+new data
+gen 
+tabn
